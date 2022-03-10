@@ -65,7 +65,7 @@
       width="48"
     />
   </a>
-  <a href="https://feedly.com/i/subscription/feed/https://www.benjaminrancourt.ca/feed.xml" target="blank">
+  <a href="https://feedly.com/i/subscription/feed/https://www.benjaminrancourt.ca/blog/rss/" target="blank">
     <img
       alt="Follow me on my blog"
       height="48"
