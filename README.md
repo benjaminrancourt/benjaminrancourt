@@ -4,7 +4,9 @@
 </h2>
 
 <h2>👉 Follow Me On</h2>
+
 > If you want to know more about me, you can find me on your favorite platform.
+<br>
 
 <div align="center">
   <a href="https://linkedin.com/in/benjaminrancourt" target="blank">
@@ -74,6 +76,7 @@
 </div>
 
 <h2>💖 Favorite Tech</h2>
+
 > Tools, languages, and other things that I like to work with.
 
 <div align="center">
@@ -330,6 +333,7 @@
 </div>
 
 <h2>📊 GitHub Stats</h2>
+
 > Some statistics for people who love them! 😉
 
 <div align="center">
