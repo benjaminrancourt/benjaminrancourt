@@ -13,6 +13,7 @@
     <img
       alt="Follow me on LinkedIn"
       height="48"
+      loading="lazy"
       src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/linkedin.svg"
       width="48"
     />
@@ -21,6 +22,7 @@
     <img
       alt="Follow me on Facebook"
       height="48"
+      loading="lazy"
       src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/facebook.svg"
       width="48"
     />
@@ -29,6 +31,7 @@
     <img
       alt="Follow me on Twitter"
       height="48"
+      loading="lazy"
       src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/twitter.svg"
       width="48"
     />
@@ -37,6 +40,7 @@
     <img
       alt="Follow me on GitHub"
       height="48"
+      loading="lazy"
       src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/github.svg"
       width="48"
     />
@@ -45,6 +49,7 @@
     <img
       alt="Follow me on GitLab"
       height="48"
+      loading="lazy"
       src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/gitlab.svg"
       width="48"
     />
@@ -53,6 +58,7 @@
     <img
       alt="Follow me on StackShare"
       height="48"
+      loading="lazy"
       src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/stackshare.svg"
       width="48"
     />
@@ -61,6 +67,7 @@
     <img
       alt="Follow me on Medium"
       height="48"
+      loading="lazy"
       src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/medium.svg"
       width="48"
     />
@@ -69,6 +76,7 @@
     <img
       alt="Follow me on my blog"
       height="48"
+      loading="lazy"
       src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/rss.svg"
       width="48"
     />
@@ -87,6 +95,7 @@
           <img
             alt="Atlassian"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/atlassian.svg"
             width="48"
           />
@@ -99,6 +108,7 @@
           <img
             alt="CSS3"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/css3.svg"
             width="48"
           />
@@ -111,6 +121,7 @@
           <img
             alt="DigitalOcean"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/digitalocean.svg"
             width="48"
           />
@@ -123,6 +134,7 @@
           <img
             alt="Docker"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/docker.svg"
             width="48"
           />
@@ -135,6 +147,7 @@
           <img
             alt="Firefox"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/firefoxbrowser.svg"
             width="48"
           />
@@ -147,6 +160,7 @@
           <img
             alt="GNU Bash"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/gnubash.svg"
             width="48"
           />
@@ -161,6 +175,7 @@
           <img
             alt="Ghost"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/ghost.svg"
             width="48"
           />
@@ -173,6 +188,7 @@
           <img
             alt="Git"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/git.svg"
             width="48"
           />
@@ -185,6 +201,7 @@
           <img
             alt="GitHub"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/github.svg"
             width="48"
           />
@@ -197,6 +214,7 @@
           <img
             alt="GitLab"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/gitlab.svg"
             width="48"
           />
@@ -209,6 +227,7 @@
           <img
             alt="HTML5"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/html5.svg"
             width="48"
           />
@@ -221,6 +240,7 @@
           <img
             alt="JavaScript"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/javascript.svg"
             width="48"
           />
@@ -235,6 +255,7 @@
           <img
             alt="JetBrains"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/jetbrains.svg"
             width="48"
           />
@@ -247,6 +268,7 @@
           <img
             alt="Kubernetes"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/kubernetes.svg"
             width="48"
           />
@@ -259,6 +281,7 @@
           <img
             alt="Let's Encrypt"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/letsencrypt.svg"
             width="48"
           />
@@ -271,6 +294,7 @@
           <img
             alt="Lit"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/lit.svg"
             width="48"
           />
@@ -283,6 +307,7 @@
           <img
             alt="Manjaro"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/manjaro.svg"
             width="48"
           />
@@ -295,6 +320,7 @@
           <img
             alt="NGINX"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/nginx.svg"
             width="48"
           />
@@ -309,6 +335,7 @@
           <img
             alt="Node.js"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/nodedotjs.svg"
             width="48"
           />
@@ -321,6 +348,7 @@
           <img
             alt="PWA"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/pwa.svg"
             width="48"
           />
@@ -333,6 +361,7 @@
           <img
             alt="Pexels"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/pexels.svg"
             width="48"
           />
@@ -345,6 +374,7 @@
           <img
             alt="Portainer"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/portainer.svg"
             width="48"
           />
@@ -357,6 +387,7 @@
           <img
             alt="Redis"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/redis.svg"
             width="48"
           />
@@ -369,6 +400,7 @@
           <img
             alt="Traefik"
             height="48"
+            loading="lazy"
             src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/traefikmesh.svg"
             width="48"
           />
@@ -389,6 +421,7 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img
         alt="Github Readme Streak Stats"
+        loading="lazy"
         src="https://github-readme-streak-stats.herokuapp.com/?user=benjaminrancourt&theme=react&border=61dafb&hide_border=true"
         width="390"
       />
@@ -396,8 +429,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img
         alt="Benjamin Rancourt's GitHub Stats"
-        width="390"
+        loading="lazy"
         src="https://github-readme-stats.vercel.app/api?username=benjaminrancourt&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
+        width="390"
       />
     </a>
   </div>
@@ -405,6 +439,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
         alt="Most Used Languages"
+        loading="lazy"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminrancourt&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
         width="325"
       />
@@ -414,6 +449,7 @@
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
       <img
         alt="Benjamin Rancourt's Contribution Graph"
+        loading="lazy"
         src="https://activity-graph.herokuapp.com/graph?username=benjaminrancourt&theme=react-dark&bg_color=20232a&hide_border=true"
         width="100%"
       />
