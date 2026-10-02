@@ -22,7 +22,7 @@ I hold a bachelor's degree in Computer Science from the **Université de Sherbro
 
 ## Merisia
 
-[**Merisia**](https://www.merisia.ca/) is a software development company based in Sherbrooke, Quebec (Canada), founded in March 2023.
+[**Merisia**](https://www.merisia.ca/) is a technology and software development company specializing in responsible digital solutions, based in Sherbrooke, Quebec (Canada).
 
 We design, develop and optimize sustainable digital solutions with a focus on:
 
