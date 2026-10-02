@@ -12,26 +12,15 @@ Software development · Responsible digital technology · Sustainable mobility
 
 I'm **Benjamin Rancourt**, a Canadian entrepreneur and software professional based in **Sherbrooke, Quebec (Canada)**.
 
-I'm the founder and CEO of [**Merisia**](https://www.merisia.ca/), a technology company specializing in responsible digital solutions, sustainable Web development and digital sobriety.
-
-I'm also behind [**Petit Duc**](https://www.petitduc.ca/), a platform developed by Merisia to help events and tourism organizations better understand and improve the mobility of their participants and visitors.
-
-My work sits at the intersection of **software development**, **sustainability**, **mobility** and **data**, with a particular interest in building useful digital products while reducing their environmental impact.
+I'm the founder and CEO of [**Merisia**](https://www.merisia.ca/) and [**Petit Duc**](https://www.petitduc.ca/). My work sits at the intersection of **software development**, **sustainability**, **mobility** and **data**, with a particular interest in building useful digital products while reducing their environmental impact.
 
 I hold a bachelor's degree in Computer Science from the **Université de Sherbrooke** and have more than 12 years of experience in Web and software development.
 
 ## Merisia
 
-[**Merisia**](https://www.merisia.ca/) is a technology and software development company specializing in responsible digital solutions, based in Sherbrooke, Quebec (Canada).
+[**Merisia**](https://www.merisia.ca/) is a technology company based in **Sherbrooke (Quebec), Canada**, specializing in responsible and sustainable digital solutions.
 
-We design, develop and optimize sustainable digital solutions with a focus on:
-
-- Web sustainability and digital sobriety
-- Web performance
-- Accessibility
-- Security
-- Search engine optimization (SEO)
-- Sustainable Web and application development
+We design, develop and optimize Web applications and digital products with a focus on **Web sustainability, digital sobriety, performance, accessibility, security and search engine optimization**. Our approach combines software development and responsible digital practices to create efficient, accessible and sustainable digital experiences.
 
 → **Official website:** [merisia.ca](https://www.merisia.ca/)  
 → **LinkedIn:** [Merisia](https://www.linkedin.com/company/merisia/)
@@ -49,8 +38,8 @@ Petit Duc helps organizations measure travel-related emissions, better understan
 
 ## Find me online
 
-- 🌐 [Personal website — benjaminrancourt.ca](https://www.benjaminrancourt.ca/)
-- 💼 [LinkedIn — Benjamin Rancourt](https://www.linkedin.com/in/benjaminrancourt/)
-- 🐙 [GitHub — @benjaminrancourt](https://github.com/benjaminrancourt)
-- 🦊 [GitLab — @benjaminrancourt](https://gitlab.com/benjaminrancourt)
-- 🔬 [ORCID — 0009-0009-8818-8194](https://orcid.org/0009-0009-8818-8194)
+- 🌐 [Personal website](https://www.benjaminrancourt.ca/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/benjaminrancourt/)
+- 🐙 [GitHub](https://github.com/benjaminrancourt)
+- 🦊 [GitLab](https://gitlab.com/benjaminrancourt)
+- 🔬 [ORCID](https://orcid.org/0009-0009-8818-8194)
